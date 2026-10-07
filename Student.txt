@@ -1,0 +1,4 @@
+Student details:
+NAME: Haarika V Reddy
+USN: 1VI25CD017
+SEM: 3rd
