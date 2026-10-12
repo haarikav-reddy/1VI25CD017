@@ -2,3 +2,4 @@ Student details
 Name:Haarika V Reddy
 USN:1VI25CD017
 Sem:3rd
+machine learning project details
